@@ -1,0 +1,167 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image: url(https://png.pngtree.com/png-clipart/20231105/original/pngtree-christmas-pattern-png-image_13508564.png);
+    background-size: 160vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    color: #fff; 
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+  
+.title1 {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  text-align: center;
+  font-size: 22px;
+  color: rgb(80, 0, 0);
+  text-shadow: 0 0 10px #727272;
+}
+
+.logo {
+  width: 60px;
+  height: auto;
+  padding: 5px;
+  left: 0px;
+  display: block;
+}
+
+.navbar {
+    width: 100%;
+    height: 65px;
+    display: flex;
+    background-color: #241f1e;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-itens {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.icon {
+    width: 35px;
+    height: 30px;
+    margin-bottom: auto;
+    margin-top: auto;
+    padding-right: 12px;
+    left: 0px;
+    filter: brightness(0) invert(1);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+}
+
+.itens {
+  color: white;
+  text-decoration: none;
+}
+
+.itens:hover {
+  color: #b3b3b3;
+}
+
+.navbar-icons {
+  display: flex;
+  gap: 25px;
+}
+
+  .natal-banner {
+    margin-top: 100px;
+    background-color: rgb(129, 24, 24);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    text-shadow: 0 0 8px #4e0000;
+  }
+  
+  .banner img {
+    width: auto;
+    height: 350px;
+    object-fit: cover;
+    border: 3px solid rgb(54, 0, 0);
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+   
+  }
+  .banner{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  .content {
+    padding: 30px 20px;
+  }
+  
+  .brand-section {
+    margin-bottom: 40px;
+  }
+  
+  .brand-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 26px;
+    color: rgb(80, 0, 0);
+    text-shadow: 0 0 10px #727272;
+  }
+  
+  .product-grid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .product-card {
+    background-color: rgb(182, 35, 35);
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid #ff6600;
+    box-shadow: 0 0 6px rgba(255,102,0,0.3);
+    color: white;
+    text-decoration: none;
+    z-index: 0;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .product-card img {
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.05);
+    overflow: hidden;
+    background-color: 	#8B0000;
+    color: #ffcc99;
+    box-shadow: 0 0 20px rgba(255,102,0,0.8);
+  }
+  
+  .rodape {
+  background-color: #241f1e; /* combina com sua navbar preta */
+  color: white;
+  padding: 1% 0;
+  margin-bottom: 0;
+  display: flex;
+  bottom: 0;
+  width: 100%;
+  font-size: 14px;
+  justify-content: space-around;
+  margin-top: auto;
+  margin-top: 3%;
+}
+
+
+.termo {
+  color: #B57EDC;
+}
