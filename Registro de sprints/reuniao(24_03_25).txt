@@ -1,0 +1,21 @@
+MODELO PARA INFORMAÇÕES DISCUTIDAS EM REUNIÕES | BRAINSTORMS | SRPINTS
+
+Data:24/02/2025
+Horário:13:00 ate 15:20
+Local:lab 03
+
+Equipe_04
+Membros:Enzo ramos,Lucas silva,Pedro gomes,Pedro dias,Vinicius pereira
+
+Assuntos discutidos:tema de cada, tema final, escolha do facilitador
+
+
+Conclusão:tema e facilitador escolhidos alem do inicio do projeto
+
+
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos:
+Data:24/03/2025
+Horário:13:00 ate as 15:20
+Local:lab 02

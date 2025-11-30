@@ -1,0 +1,26 @@
+Data:14/04/2025
+Horário:14h00 a 14:30
+Local:etec uirapuru
+
+Equipe_04
+Membros:Enzo ramos,Lucas silva,Pedro gomes,Pedro dias,Vinicius pereira, Mateus Mattos
+
+Assuntos discutidos:temos temas em abertos sendo eles(
+diagrama,prototipo de alta,documentaçao deles incluindo os requisitos)
+
+Pedro henrique- documentação 
+Vinicius- diagrama
+enzo- prototipo e codar
+mateus mattos- diagrama 
+lucas- prototipo de alta codar
+pedro- prototipo de alta  e codar 
+
+
+Conclusão:Decidimos oque cada um ira trabalhar, prazo ate dia 13/06, pedro entregara dia 16/06
+
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: Relação das metas estabelacidas e oque foi entregue , cumprimento de trabalho 
+Data:16/06
+Horário:Dado obtido após a reunião
+Local:Dado obtido após a reunião

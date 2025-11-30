@@ -1,0 +1,17 @@
+Data:16/06/2025
+Horário:14h00 a 14:30
+Local:etec uirapuru
+
+Equipe_04
+Membros:Enzo ramos,Lucas silva,Pedro gomes,Pedro dias,Vinicius pereira, Mateus Mattos
+
+Assuntos discutidos: atividades terminadas e planejamentos pra apresentação do dia 23/06
+vini,mattos e lucas- levantamento dos materiais prontos 
+pedro h,pedro vini , enzo- codificação e termino de prototipo 
+
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: Relação das metas estabelacidas e oque foi entregue , cumprimento de trabalho 
+Data:30/06
+Horário:Dado obtido após a reunião
+Local:Dado obtido após a reunião

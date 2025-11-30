@@ -1,0 +1,33 @@
+Data:24/11/2025
+Horário:13:40 a 13:50
+
+Local:etec uirapuru
+
+Equipe_04
+Membros:Enzo ramos,Lucas silva,Pedro gomes,Pedro dias,Vinicius pereira, Mateus Mattos
+
+Assuntos discutidos: Revisão do material feito ate agora, o que faremos ao logo dessa semana 
+
+Enzo Ramos , Pedro Gomes , Pedro Vinicius , Mateus Mattos e Lucas silva - Codigo 
+ 
+Pedro Gomes - Pagina umbro , galeria de eventos 
+
+Pedro vinicius - pagina adidas ees tudo viabilidade 
+
+Vinicius - modificação no diagrama de classe 
+
+Enzo - implentar o javascript no projeto e pagina de central de ajuda
+
+Lucas - Puma e trabalhar com o enzo
+
+mateus mattos - alteraçoes em slides
+
+prazo de entrega: segunda dia 24/11
+
+
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: a ser determinado
+Data:Dado obtido após a reunião 
+Horário:Dado obtido após a reunião
+Local:Dado obtido após a reunião

@@ -1,0 +1,23 @@
+Data:15/09/2025
+Horário:14:10 a 14:30
+Local:etec uirapuru
+
+Equipe_04
+Membros:Enzo ramos,Lucas silva,Pedro gomes,Pedro dias,Vinicius pereira, Mateus Mattos
+
+Assuntos discutidos: Revisão do material feito ate agora, o que faremos ao logo dessa semana 
+
+Pedro Gomes e  - Slides 
+
+Mateus Mattos - Ajuste do prototipo de Media/Alta
+
+Pedro Vinicius e Enzo Ramos  - Codigos 
+
+Vinicius Pereira e Lucas Oliveira - Finalização de estudo de viabilidade 
+
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: a ser determinado
+Data:Dado obtido após a reunião 
+Horário:Dado obtido após a reunião
+Local:Dado obtido após a reunião
