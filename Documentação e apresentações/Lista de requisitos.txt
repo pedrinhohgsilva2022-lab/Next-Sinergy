@@ -1,0 +1,118 @@
+APS 1º M TEC/DS
+Equipe 4 
+ETEC Uirapuru
+
+LISTA DE REQUISITOS
+
+📢 O que seria uma lista de requisitos?
+
+Lista de requisito, ou Product backlog, como é mais conhecida, se baseia em uma lista feita geralmente pelo product owner, 
+que deve conter as funcionalidade desse site, como login, estoque, meu perfil, carrinho, entre outras.
+
+📢 Lista de requisitos funcionais do nosso site:
+
+A ideia do nosso site, seria um e-commerce de uma loja esportiva original de nos estudantes do grupo 4, nossa loja e marca atende a variedade esportiva com ampla gama de acessorios para esportes
+
+1- Cadrasto de usuario
+    1.1 Email
+        1.1.1 Verificação de dados
+    1.2 Documentos pessoais (Ex: CPF, RG)
+    1.3 Nome de exibição
+    1.4 Telefone
+        1.4.1 Verificação de dados
+    1.5 Criar senha
+2- Realizar pedido
+    2.1 Quantidade
+    2.2 Cor (opcional)
+    2.3 Garantia (opcional)
+3- prover checkout
+    3.1 Forma de entrega
+    3.2 Endereço da entrega
+    3.3 Prazo de entrega
+    3.4 Forma de pagamento
+	    3.4.1 Pix
+	    3.4.2 Cartão de credito
+	    3.4.3 Boleto bancario
+	    3.4.4 Cartão de debito
+    3.5 Confirmação de pedido 
+4- sprover rastreamento de produto
+    4.1 Rastreamento
+    4.2 Prazo estimativo de entrega
+5- Prover tela de cadastro de fornecedora
+    5.1 Identificação da fornecedora
+    5.2 Documentos (Ex: CNPJ, RG)
+    5.3 Endereço
+	    5.3.1 Rua / avenida / rodovia
+	    5.3.2 Estado
+	    5.3.3 Cidade
+	    5.3.4 CEP
+	    5.3.5 Numero
+	    5.3.6 Complemento (opcional)
+    5.4 Email profissional
+    5.5 Telefone contato
+    5.6 Senha de acesso
+6- Prover tela de cadastro de transportadora
+    6.1 Identificação da transportadora
+    6.2 CNPJ
+    6.3 Endereço
+	    6.3.1 Rua / avenida / rodovia
+	    6.3.2 Estado
+	    6.3.3 Cidade
+	    6.3.4 CEP
+	    6.3.5 Numero
+	    6.3.6 Complemento (opcional)
+    6.4 Email profissional
+    6.5 Telefone contato
+    6.6 Senha de acesso
+7- Prover vitrine de produtos
+    7.1 Imagem principal do produto
+    7.2 Breve titulo
+    7.3 Preço com desconto aplicado (Ex: Mercado livre)
+    7.4 Opções de parcelamento com cartão
+    7.5 Produtos de vitrine devem estar com frete grátis, mesmo que seja aplicado no valor final do produto
+8- Prover filtragem de produtos por categoria
+    8.1 Categorias
+        8.1.1 Vestimentas
+            8.1.1.1 Camisas
+            8.1.1.2 Regatas 
+            8.1.1.3 Agasalhos
+            8.1.1.4 Blusas moletom
+            8.1.1.5 Calças
+            8.1.1.6 Bermudas
+            8.1.1.7 Calções
+            8.1.1.8 Meias esportivas
+            8.1.1.9 boné
+            8.1.1.10 Viseiras   
+                 8.1.2 Calçados
+            8.1.2.1 Tenis de corrida
+            8.1.2.2 Tenis de basquete
+            8.1.2.3 Tenis comum
+            8.1.2.4 Chuteira
+            8.1.2.5 Chinelos
+            8.1.2.6 Sandalhas
+        8.1.3 Artigos esportivos
+            8.1.3.1 Bola
+                8.1.3.1.1 Futebol
+                8.1.3.1.2 basquete
+                8.1.3.1.3 Volei
+                8.1.3.1.4 Handebol
+                8.1.3.1.5 Tenis
+            8.1.3.2 Coletes
+            8.1.3.3 Raquetes
+            8.1.3.4 Luvas
+            8.1.3.5 Taco
+            8.1.3.6 óculos
+            8.1.3.7 Canelheira 
+            8.1.3.8 Joelheira
+            8.1.3.9 cotoveleira
+            8.1.3.10 tornozerleira
+            8.1.3.11 Mochilas
+            8.1.3.12 bolsa
+            8.1.3.13 Garrafas termicas
+
+
+📢 lista de requisitos não funcionais do nosso site
+1- Segurança dos dados
+2- Confiabilidade do sistema
+3- Velocidade de processamento do sistema
+4- Facilidade na usabilidade do site
